@@ -5,7 +5,9 @@ function drag(id){
 	obj.onmousedown=function(){
 		alert(1);
 		document.onmousemove=function(cv){
+
 			alert(123123123);
+
 		};
 	};
 }

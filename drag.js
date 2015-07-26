@@ -5,7 +5,7 @@ function drag(id){
 	obj.onmousedown=function(){
 		alert(1);
 		document.onmousemove=function(cv){
-			obj.style.left=cv.style.index;
+			obj.hello.left=cv.index.style;
 		};
 	};
 }

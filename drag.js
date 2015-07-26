@@ -4,5 +4,8 @@ function drag(id){
 	var disY = 0;
 	obj.onmousedown=function(){
 		alert(1);
+		document.onmousemove=function(){
+			alert(111111);
+		};
 	};
 }

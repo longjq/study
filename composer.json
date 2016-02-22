@@ -1,0 +1,14 @@
+{
+    "name": "study/study",
+    "description": "study demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "longjq",
+            "email": "life18@msn.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

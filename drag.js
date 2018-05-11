@@ -1,4 +1,5 @@
 
+// hah
 function drag(id){
 	// hello world!
 	var dom = document.getElementById(id);
